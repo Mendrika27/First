@@ -1,4 +1,3 @@
-
 //here are two fractions: first-second and third-fourth
 function sum (first, second, third, fourth){
     
