@@ -1,5 +1,6 @@
 # First
-Sum of two fractions
+Sum of two fractions.
+
 Language : Javascript
 
 here are two fractions. 
